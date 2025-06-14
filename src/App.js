@@ -65,7 +65,7 @@ const App = () => {
         <h1 className="text-2xl font-bold text-blue-600">
           Prashanth Mudigonda
         </h1>
-        <nav className="space-x-6" style={(display = "flex")}>
+        <nav className="space-x-6" style={{ display: "flex" }}>
           <a href="#about" className="hover:text-blue-600 font-medium">
             About
           </a>
